@@ -1,4 +1,4 @@
-# Retail Sales Analysis
+# Sales Analysis
 
 ## Project Overview
 
